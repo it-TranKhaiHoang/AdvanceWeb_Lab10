@@ -26,6 +26,8 @@
   },
   "dependencies": {
     "cookie-session": "^2.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.3",
     "passport": "^0.5.2",
     "passport-google-oauth2": "^0.2.0",
     "socket.io": "^4.5.0"
